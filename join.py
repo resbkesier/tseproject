@@ -3,7 +3,7 @@ from __future__ import print_function
 
 import os
 import csv
-
+# Comment
 
 def retorna_arquivos(caminho):
     for root, dirs, files in os.walk(caminho):
